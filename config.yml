@@ -1,0 +1,3 @@
+stPlayerIsOp: "&cWarning: &f%s&7 has Op status."
+boolUseMChatName: true
+boolSendAlertToConsole: true

@@ -1,0 +1,8 @@
+name: OpAlert
+main: com.cyprias.opalert.OpAlert
+version: 1.0.0
+
+permissions:
+    opalert.login:
+        description: Notifies players with this permission when a Op logs in without this permission.
+        default: false
