@@ -28,7 +28,7 @@ public class Events implements Listener {
 				
 
 				for (Player o : plugin.getServer().getOnlinePlayers()) {
-					if (o.isPermissionSet("opalert.login") && o.hasPermission("opalert.login"))
+					if (o.isPermissionSet("opalert.login"))
 						o.sendMessage(plugin.chatPrefix + msg);
 				}
 			}
