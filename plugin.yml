@@ -1,6 +1,6 @@
 name: OpAlert
 main: com.cyprias.opalert.OpAlert
-version: 0.1.1
+version: 1.2.0
 
 permissions:
     opalert.login:
